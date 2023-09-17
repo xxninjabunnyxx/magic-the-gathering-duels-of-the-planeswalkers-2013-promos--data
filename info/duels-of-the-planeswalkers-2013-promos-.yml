@@ -1,0 +1,15 @@
+---
+object: set
+id: f972b795-5d5d-406c-9326-a241b11480a9
+code: pdp13
+name: 'Duels of the Planeswalkers 2013 Promos '
+uri: https://api.scryfall.com/sets/f972b795-5d5d-406c-9326-a241b11480a9
+scryfall_uri: https://scryfall.com/sets/pdp13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdp13&unique=prints
+released_at: '2012-01-01'
+set_type: promo
+card_count: 3
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m13.svg?1694404800
